@@ -8,5 +8,5 @@ I'm Osiris, a data engineering student passionate about ✨ data science ✨.
 - ⚡ Fun fact: ...
 - 💬 Ask me about **data science, data mining, analysis, machine learning and visualization.**
 
-- 📫 Reach me at [`Linkedin`](linkedin.com/in/osiris-cámara-9485171a4), [Medium](https://medium.com/@osiriscs) and email
+- 📫 Reach me at [`Linkedin`](linkedin.com/in/osiris-cámara-9485171a4), [`Medium`](https://medium.com/@osiriscs) and  [`osiriscs@pm.me`](mailto:osiriscs@pm.me)
 
