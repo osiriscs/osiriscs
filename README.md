@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Osiris, a data engineering student with a passion for ✨ data science ✨.
+I'm Osiris, a data engineering student passionate about ✨ data science ✨.
 
 - 🔭 I’m currently studying at Universidad Politécnica de Yucatán
 - 🌱 I’m constantly learning about **Data science, Machine learning and Ai**
