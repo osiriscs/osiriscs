@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**osiriscs/osiriscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Osiris, a data engineering student with a passion for ✨ _data science_ ✨.
 
 Here are some ideas to get you started:
 
