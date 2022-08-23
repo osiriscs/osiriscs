@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm Osiris, a data engineering student with a passion for ✨ _data science_ ✨.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
