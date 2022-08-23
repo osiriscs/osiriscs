@@ -2,13 +2,12 @@
 
 I'm Osiris, a data engineering student with a passion for ✨ data science ✨.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying at Universidad Politécnica de Yucatán
 - 🌱 I’m constantly learning about **Data science, Machine learning and Ai**
 - 🌍 I'm sharing my knowledge through my [medium](https://medium.com/@osiriscs)
 - ⚡ Fun fact: ...
 - 💬 Ping me about **data science, data mining, analysis, machine learning and visualization.**
 - 📫 How to reach me: 
-  - a
+  - [Medium](https://medium.com/@osiriscs)
+  - (https://medium.com/@osiriscs)
 
