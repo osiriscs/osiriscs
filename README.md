@@ -9,5 +9,5 @@ I'm Osiris, a data engineering student with a passion for ✨ data science ✨.
 - 💬 Ping me about **data science, data mining, analysis, machine learning and visualization.**
 - 📫 How to reach me: 
   - [Medium](https://medium.com/@osiriscs)
-  - (https://medium.com/@osiriscs)
+  - [https://medium.com/@osiriscs]
 
